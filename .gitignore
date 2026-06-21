@@ -11,3 +11,6 @@ wheels/
 
 # Environments
 .env
+
+# Log Files
+*.log
